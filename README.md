@@ -7,7 +7,7 @@
 * macOS 11.2 Big Sur
 * macOS 10.15.7 Catalina
 
-## 機能
+### 機能
 * GPU アクセラレーション
 * 内蔵サウンド
 * キーボード
