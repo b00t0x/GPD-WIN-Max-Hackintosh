@@ -1,6 +1,6 @@
 # GPD WIN Max Hackintosh
 ## 導入
-作成中
+https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
