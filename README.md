@@ -4,7 +4,7 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS 11.2 Big Sur
+* macOS 11.2.3 Big Sur
 * macOS 10.15.7 Catalina
 
 ### 機能
@@ -35,7 +35,8 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
   * [itlwm](https://github.com/OpenIntelWireless/itlwm) の開発に依存
 
 ## 謝辞
-* [@kingo132](https://github.com/kingo132/GPD-Win-Max-Hackintosh) : トラックパッドおよびタッチパネル設定
+* [@kingo132](https://github.com/kingo132/GPD-Win-Max-Hackintosh) : トラックパッドおよびタッチパネル設定、GPU設定
   * VoodooI2CGoodix.kext, SSDT-TPD0, SSDT-TPL1
+  * `igfxfw=2`
 * [@HMR](https://www.youtube.com/watch?v=WiP-NJGIKOs) : GPD WIN Max 用 mod BIOS
 * [@RehabMan](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137/#post-1308261) : バッテリー SSDT 作成チュートリアル
