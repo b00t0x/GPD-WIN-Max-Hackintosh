@@ -4,7 +4,7 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS 11.2.3 Big Sur
+* macOS 11.4 Big Sur
 * macOS 10.15.7 Catalina
 
 ### 機能
@@ -18,7 +18,7 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
   * マウスモード
   * パッドモード ( 要 [360Controller](https://github.com/360Controller/360Controller) )
 * 有線 LAN
-* 無線 LAN ( ※ 802.11n 相当 )
+* 無線 LAN
 * ThunderBolt 3 映像出力
   * USB-C to DP 4K/60Hz
   * USB-C to HDMI 4K/60Hz
@@ -31,7 +31,7 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 * HDMI 映像・音声出力
 * 起動時の画面乱れ
   * 10 秒くらい待てばその後は問題なく使用可能
-* 無線 LAN の速度と安定性
+* 無線 LAN の安定性
   * [itlwm](https://github.com/OpenIntelWireless/itlwm) の開発に依存
 
 ## 謝辞
