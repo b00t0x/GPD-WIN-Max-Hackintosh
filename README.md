@@ -4,6 +4,7 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
+* macOS 12 Monterey Beta 3
 * macOS 11.4 Big Sur
 * macOS 10.15.7 Catalina
 
