@@ -4,8 +4,8 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS 12 Monterey Beta 3
-* macOS 11.4 Big Sur
+* macOS 12.0.1 Monterey
+* macOS 11.6.1 Big Sur
 * macOS 10.15.7 Catalina
 
 ### 機能
@@ -30,8 +30,6 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 ## 動作しないもの・問題点
 * ThunderBolt 3 ポートからの音声出力
 * HDMI 映像・音声出力
-* 起動時の画面乱れ
-  * 10 秒くらい待てばその後は問題なく使用可能
 * 無線 LAN の安定性
   * [itlwm](https://github.com/OpenIntelWireless/itlwm) の開発に依存
 
