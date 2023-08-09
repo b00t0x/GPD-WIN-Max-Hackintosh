@@ -4,10 +4,11 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS 13.1 Ventura
-* macOS 12.6.2 Monterey
-* macOS 11.7.2 Big Sur
-* macOS 10.15.7 Catalina
+* macOS Sonoma 14 beta 5
+* macOS Ventura 13.5
+* macOS Monterey 12.6.8
+* macOS Big Sur 11.7.9
+* macOS Catalina 10.15.7
 
 ### 機能
 * GPU アクセラレーション
@@ -31,8 +32,6 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 ## 動作しないもの・問題点
 * ThunderBolt 3 ポートからの音声出力
 * HDMI 映像・音声出力
-* 無線 LAN の安定性
-  * [itlwm](https://github.com/OpenIntelWireless/itlwm) の開発に依存
 
 ## 謝辞
 * [@kingo132](https://github.com/kingo132/GPD-Win-Max-Hackintosh) : トラックパッドおよびタッチパネル設定、GPU設定
