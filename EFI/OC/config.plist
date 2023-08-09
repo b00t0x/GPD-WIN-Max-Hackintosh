@@ -778,7 +778,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Sonoma.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0</string>
+                    <string>V2.3.0 | for macOS 14 beta 5</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
