@@ -708,7 +708,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Catalina.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | 3e1624d</string>
+                    <string>V2.3.0 | ae9572e</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -726,7 +726,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-BigSur.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | 3e1624d</string>
+                    <string>V2.3.0 | ae9572e</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -744,7 +744,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Monterey.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | 3e1624d</string>
+                    <string>V2.3.0 | ae9572e</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -762,7 +762,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Ventura.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | 3e1624d</string>
+                    <string>V2.3.0 | ae9572e</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -778,9 +778,9 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>AirportItlwm-Sonoma.kext</string>
+                    <string>AirportItlwm-Sonoma14.0.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | 3e1624d</string>
+                    <string>V2.3.0 | ae9572e</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -789,6 +789,24 @@
                     <string>23.3.99</string>
                     <key>MinKernel</key>
                     <string>23.0.0</string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AirportItlwm-Sonoma14.4.kext</string>
+                    <key>Comment</key>
+                    <string>V2.3.0 | ae9572e</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/AirportItlwm</string>
+                    <key>MaxKernel</key>
+                    <string>23.99.99</string>
+                    <key>MinKernel</key>
+                    <string>23.4.0</string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
