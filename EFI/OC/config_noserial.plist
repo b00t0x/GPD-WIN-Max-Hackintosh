@@ -708,7 +708,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Catalina.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -726,7 +726,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-BigSur.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -744,7 +744,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Monterey.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -762,7 +762,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Ventura.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -780,7 +780,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Sonoma14.0.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -798,7 +798,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm-Sonoma14.4.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0 | ae9572e</string>
+                    <string>V2.3.0 | 4ac4c79</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
