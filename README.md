@@ -4,10 +4,11 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS Sonoma 14.5
-* macOS Ventura 13.6.7
-* macOS Monterey 12.6.8
-* macOS Big Sur 11.7.9
+* macOS Sequoia 15.2
+* macOS Sonoma 14.7.2
+* macOS Ventura 13.7.2
+* macOS Monterey 12.7.6
+* macOS Big Sur 11.7.10
 * macOS Catalina 10.15.7
 
 ### 機能
