@@ -1013,7 +1013,28 @@
                 <string></string>
             </dict>
             <key>Force</key>
-            <array/>
+            <array>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>System/Library/Extensions/IO80211Family.kext</string>
+                    <key>Comment</key>
+                    <string>Load IO80211Family on Catalina with AppleSecureBoot disabled</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/IO80211Family</string>
+                    <key>Identifier</key>
+                    <string>com.apple.iokit.IO80211Family</string>
+                    <key>MaxKernel</key>
+                    <string>19.99.99</string>
+                    <key>MinKernel</key>
+                    <string>19.0.0</string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+            </array>
             <key>Patch</key>
             <array/>
             <key>Quirks</key>
