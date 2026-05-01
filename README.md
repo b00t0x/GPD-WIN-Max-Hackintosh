@@ -4,12 +4,13 @@ https://b00tb00k.blogspot.com/2021/02/gpd-win-maxhackintosh_11.html
 
 ## 動作確認済み
 ### OS
-* macOS Sequoia 15.2
-* macOS Sonoma 14.7.2
-* macOS Ventura 13.7.2
+* macOS Tahoe 26.4.1
+* macOS Sequoia 15.7.5
+* macOS Sonoma 14.8.5
+* macOS Ventura 13.7.8
 * macOS Monterey 12.7.6
-* macOS Big Sur 11.7.10
-* macOS Catalina 10.15.7
+* macOS Big Sur 11.7.11
+* macOS Catalina 10.15.8
 
 ### 機能
 * GPU アクセラレーション
